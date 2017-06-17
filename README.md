@@ -2,8 +2,9 @@
 #### All supplmentary information from [Bedrat _et al._ NAR 2016][paper ref].  
 Supplementary Data can be also downloaded from [here](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4770238/bin/supp_44_4_1746__index.html).  
 The _Biophysical Data.pdf_ file corresponds to characterisation of the 209 sequences from the mitochondrial dataset. Methods used are: UV-melting, TDS, CD, IDS, Thioflavine T fluorescence and NMR.  
-The _G4HunterSupFigure.pdf_ file corresponds supplementary figure of the paper [Bedrat _et al._ NAR 2016][paper ref].  
-The _TableS1 
+The _G4HunterSupInfo.pdf_ file corresponds supplementary informations of the paper. It contains the legends for the supplementary figures as well as Table S4 and S5.  
+The _G4HunterSupFigure.pdf_ file corresponds supplementary figure of the paper.  
+The _TableS1, S2, S3, S6, S7, S8, S9a and b_ correspond to the supplementary figure not present in the main PDF file _G4HunterSupInfo.pdf_.  
 
 > ##### The top part of this page allows you to compute the G4Hunter score of a single sequence. This main App (G4Hunter Seeker) identifies DNA or RNA regions in a longer sequence for which the G4Hunter score is above the chosen threshold in windows of the selected size. Please cite _"Bedrat A, Lacroix L, & Mergny JL (2016) Re-evaluation of G-quadruplex propensity with G4Hunter. Nucleic Acids Res 44(4):1746-1759."_, when reporting results obtained with this App.
 
