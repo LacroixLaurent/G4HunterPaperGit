@@ -1,11 +1,11 @@
-#### Script collection used in 
+#### Script collection used in
 #### "Reevaluation of quadruplex propensity with G4Hunter"
 #### L. Lacroix, laurent.lacroix@inserm.fr
 #### 2015-09-28
 
 ## developed for R version 3.2.2 on mac OS X 10.10 running on a macbook pro 2013
 
-#### Functions are located in the file G4Hunster_function_final.r
+#### Functions are located in the file function_G4Hunter.r
 
 workingpath <-  '~/Desktop/G4HunterPaper/'
 setwd(workingpath)
@@ -18,7 +18,7 @@ G4Hscore(A22g)
 #### Example to compute G4Hscore for a list of sequcences
 
 RefSet <- read.table('ReferenceDataset.txt',header=T)
-RefSet[,4] <- sapply(RefSet[,2],function(x) signif(G4Hscore(x),3)) 
+RefSet[,4] <- sapply(RefSet[,2],function(x) signif(G4Hscore(x),3))
 names(RefSet)[4] <- 'G4Hscore'
 write.table(as.data.frame(RefSet),'RefSetCalc.txt',sep='\t',col.names=NA)
 

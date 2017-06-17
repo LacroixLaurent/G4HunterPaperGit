@@ -1,6 +1,7 @@
 # G4Hunter
 #### All supplmentary information from [Bedrat _et al._ NAR 2016][paper ref].  
 Supplementary Data can be also downloaded from [here](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4770238/bin/supp_44_4_1746__index.html).  
+--------------------------------------------------------------------------
 The file _ReferenceDataset.txt_ contains the reference dataset used in the manuscript. It contains the sequences and conclusion G4 or not for each sequence.  
 The _Biophysical Data.pdf_ file corresponds to characterisation of the 209 sequences from the mitochondrial dataset. Methods used are: UV-melting, TDS, CD, IDS, Thioflavine T fluorescence and NMR.  
 The _EF184640.1.fa_ file contains the human mitochondial DNA sequence used in the manuscript.  
