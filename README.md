@@ -1,8 +1,9 @@
 # G4Hunter
 #### All supplmentary information from [Bedrat _et al._ NAR 2016][paper ref].  
 Supplementary Data can be also downloaded from [here](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4770238/bin/supp_44_4_1746__index.html).  
-The _EF184640.1.fa_ file corresponds to the human mitochondrial genome used in the publication.  
-The _hTERC.fa_ file corresponds to the human telomerase RNA component in RNA alphabet.  
+The _Biophysical Data.pdf_ file corresponds to characterisation of the 209 sequences from the mitochondrial dataset. Methods used are: UV-melting, TDS, CD, IDS, Thioflavine T fluorescence and NMR.  
+The _G4HunterSupFigure.pdf_ file corresponds supplementary figure of the paper [Bedrat _et al._ NAR 2016][paper ref].  
+The _TableS1 
 
 > ##### The top part of this page allows you to compute the G4Hunter score of a single sequence. This main App (G4Hunter Seeker) identifies DNA or RNA regions in a longer sequence for which the G4Hunter score is above the chosen threshold in windows of the selected size. Please cite _"Bedrat A, Lacroix L, & Mergny JL (2016) Re-evaluation of G-quadruplex propensity with G4Hunter. Nucleic Acids Res 44(4):1746-1759."_, when reporting results obtained with this App.
 
