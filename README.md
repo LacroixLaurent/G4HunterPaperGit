@@ -4,7 +4,7 @@ Supplementary Data can be also downloaded from [here](http://www.ncbi.nlm.nih.go
 The _Biophysical Data.pdf_ file corresponds to characterisation of the 209 sequences from the mitochondrial dataset. Methods used are: UV-melting, TDS, CD, IDS, Thioflavine T fluorescence and NMR.  
 The _G4HunterSupInfo.pdf_ file corresponds supplementary informations of the paper. It contains the legends for the supplementary figures as well as Table S4 and S5.  
 The _G4HunterSupFigure.pdf_ file corresponds supplementary figure of the paper.  
-The _TableS1, S2, S3, S6, S7, S8, S9a and b_ correspond to the supplementary figure not present in the main PDF file _G4HunterSupInfo.pdf_.  
+The _TableS1, S2, S3, S6, S7, S8, S9a and b_ correspond to the supplementary tables not present in the main PDF file _G4HunterSupInfo.pdf_.  
 
 
 --------------------------------------------------------------------------
