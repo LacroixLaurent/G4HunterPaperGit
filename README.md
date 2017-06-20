@@ -1,5 +1,5 @@
 # G4Hunter
-#### All supplmentary information from [Bedrat _et al._ NAR 2016][paper ref].  
+#### All the supplementary informations from [Bedrat _et al._ NAR 2016][paper ref].  
 
 #### Supplementary Data can be also downloaded from [here](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4770238/bin/supp_44_4_1746__index.html).  
 --------------------------------------------------------------------------
